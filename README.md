@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Lucas 👋</h1>
 
 <p align="center">
-  Estudante de Desenvolvimento Backend apaixonado(a) por Java e Spring Boot, com foco em APIs seguras e bem estruturadas
+  Sou um Estudante de Desenvolvimento Backend apaixonado(a) por Java e Spring Boot, com foco em APIs seguras e bem estruturadas
 </p>
 
 <br>
