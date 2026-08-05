@@ -29,7 +29,6 @@
 <hr>
 
 <h3 align="center">📫 Contato</h3>
-<br>
 <p align="center">
   <a href="mailto:luucaassanches@gmail.com">Email</a>
 </p>
