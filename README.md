@@ -6,27 +6,27 @@
 
 <br>
 
-<hr width="50%">
+<hr>
 
 <h3 align="center">🛠️ Tecnologias</h3>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/-C-000?style=flat-square&logo=c" />
-  <img src="https://img.shields.io/badge/-Java-000?style=flat-square&logo=openjdk" />
-  <img src="https://img.shields.io/badge/-Spring%20Boot-000?style=flat-square&logo=springboot" />
-  <img src="https://img.shields.io/badge/-JWT-000?style=flat-square&logo=jsonwebtokens" />
-  <img src="https://img.shields.io/badge/-MySQL-000?style=flat-square&logo=mysql" />
-  <img src="https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3" />
-  <img src="https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Git-000?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker" />
-  <img src="https://img.shields.io/badge/-JUnit-000?style=flat-square&logo=junit5" />
+  <img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white&logoWidth=25" />
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white&logoWidth=25" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-000?style=for-the-badge&logo=springboot&logoColor=white&logoWidth=25" />
+  <img src="https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&logoWidth=25" />
+  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=25" />
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white&logoWidth=25" />
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white&logoWidth=25" />
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white&logoWidth=25" />
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white&logoWidth=25" />
+  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white&logoWidth=25" />
+  <img src="https://img.shields.io/badge/JUnit-000?style=for-the-badge&logo=junit5&logoColor=white&logoWidth=25" />
 </p>
 
 <br>
 
-<hr width="50%">
+<hr>
 
 <h3 align="center">📫 Contato</h3>
 <br>
