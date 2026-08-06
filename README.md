@@ -3,7 +3,6 @@
 <p align="center">
   Sou um Estudante de Desenvolvimento Backend apaixonado(a) por Java e Spring Boot, com foco em APIs seguras e bem estruturadas
 </p>
-
 <br>
 
 <hr>
