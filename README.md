@@ -65,7 +65,7 @@
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/LucasSanchesM/LucasSanchesM/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=LucasSanchesM&locale=pt-br&mode=daily&theme=aura&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/LucasSanchesM/LucasSanchesM/activity-graph-output/activity-graph.svg?area=true&hide_border=true&theme=github-dark&bg_color=FFFFF&color=A277FF&line=A277FF&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es&point=A277FF&title_color=61FFCA" height="150" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/LucasSanchesM/LucasSanchesM/activity-graph-output/activity-graph.svg?area=true&hide_border=true&theme=github-dark&bg_color=FFFFF&color=A277FF&line=A277FF&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es&point=A277FF&title_color=61FFCA" width="100%" alt="activity-graph graph"  />
 </div>
 
 ###
